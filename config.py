@@ -3,4 +3,7 @@
 
 import os
 
-AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
+https://iam.amazonaws.com/?Action=CreateAccessKey
+&UserName=Bob
+&Version=2010-05-08
+&AUTHPARAMS
