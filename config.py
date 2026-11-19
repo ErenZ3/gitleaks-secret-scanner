@@ -3,7 +3,4 @@
 
 import os
 
-https://iam.amazonaws.com/?Action=CreateAccessKey
-&UserName=Bob
-&Version=2010-05-08
-&AUTHPARAMS
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
